@@ -1,0 +1,3301 @@
+[
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:17 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2417586104,
+                    "id_str": "2417586104",
+                    "indices": [
+                        3,
+                        12
+                    ],
+                    "name": "Sebastian Gorka DrG",
+                    "screen_name": "SebGorka"
+                },
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        17,
+                        32
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062365036788805600,
+        "id_str": "1062365036788805632",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 3354,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Nov 13 01:56:40 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1062162297899151362",
+                        "indices": [
+                            115,
+                            138
+                        ],
+                        "url": "https://t.co/h4dM4NmXXz"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 1976143068,
+                        "id_str": "1976143068",
+                        "indices": [
+                            3,
+                            18
+                        ],
+                        "name": "Emmanuel Macron",
+                        "screen_name": "EmmanuelMacron"
+                    }
+                ]
+            },
+            "favorite_count": 7919,
+            "favorited": false,
+            "geo": null,
+            "id": 1062162297899151400,
+            "id_str": "1062162297899151362",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 3354,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "So @EmmanuelMacron needs an army to protect him from the country that saved his nation TWICE in the 20th century.… https://t.co/h4dM4NmXXz",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Mar 29 15:31:11 +0000 2014",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "@FOXNews Nat. Sy. Strategist 🔴Latest book: WHY WE FIGHT https://t.co/YEJZ3lck9D🔴Fmr Strategist to Pres. Trump 🔴Author of National bestseller: DEFEATING JIHAD",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "amzn.to/2LTVKOp",
+                                "expanded_url": "https://amzn.to/2LTVKOp",
+                                "indices": [
+                                    56,
+                                    79
+                                ],
+                                "url": "https://t.co/YEJZ3lck9D"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 52112,
+                "follow_request_sent": false,
+                "followers_count": 644155,
+                "following": false,
+                "friends_count": 3544,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 2417586104,
+                "id_str": "2417586104",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 3352,
+                "location": "Washington, DC",
+                "name": "Sebastian Gorka DrG",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2417586104/1541717004",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/980659357883994112/vrzPQx0G_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/980659357883994112/vrzPQx0G_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "SebGorka",
+                "statuses_count": 40582,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": true
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "RT @SebGorka: So @EmmanuelMacron needs an army to protect him from the country that saved his nation TWICE in the 20th century. \n\nWhat an “…",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jul 25 20:00:42 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "fourth generation oyster farmer",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 9471,
+            "follow_request_sent": false,
+            "followers_count": 206,
+            "following": false,
+            "friends_count": 264,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 757666909177339900,
+            "id_str": "757666909177339904",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3,
+            "location": "Golden Meadow, LA",
+            "name": "Nick Collins",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/757682375249625088/UdkQeI48_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/757682375249625088/UdkQeI48_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Collinsnick0082",
+            "statuses_count": 1879,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:15 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062365027666034700,
+        "id_str": "1062365027666034688",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "quoted_status_id": 1061598511324692500,
+        "quoted_status_id_str": "1061598511324692481",
+        "retweet_count": 77566,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Nov 11 16:31:15 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1061657617683111942",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/V2TMh1YoFS"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 255716,
+            "favorited": false,
+            "geo": null,
+            "id": 1061657617683112000,
+            "id_str": "1061657617683111942",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": {
+                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                2.2241006,
+                                48.8155214
+                            ],
+                            [
+                                2.4699053,
+                                48.8155214
+                            ],
+                            [
+                                2.4699053,
+                                48.9021461
+                            ],
+                            [
+                                2.2241006,
+                                48.9021461
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "contained_within": [],
+                "country": "France",
+                "country_code": "FR",
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1",
+                "name": "Paris",
+                "place_type": "city",
+                "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+            },
+            "possibly_sensitive": false,
+            "quoted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Nov 11 12:36:23 +0000 2018",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1061598511324692481",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/g1THSQ3qLm"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 73052,
+                "favorited": false,
+                "geo": null,
+                "id": 1061598511324692500,
+                "id_str": "1061598511324692481",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "fr",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    2.2241006,
+                                    48.8155214
+                                ],
+                                [
+                                    2.4699053,
+                                    48.8155214
+                                ],
+                                [
+                                    2.4699053,
+                                    48.9021461
+                                ],
+                                [
+                                    2.2241006,
+                                    48.9021461
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "France",
+                    "country_code": "FR",
+                    "full_name": "Paris, France",
+                    "id": "09f6a7707f18e0b1",
+                    "name": "Paris",
+                    "place_type": "city",
+                    "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+                },
+                "retweet_count": 23802,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Le patriotisme est l’exact contraire du nationalisme : le nationalisme en est la trahison. En disant « nos intérêts… https://t.co/g1THSQ3qLm",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Sun Oct 20 19:35:28 +0000 2013",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Président de la République française.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "elysee.fr",
+                                    "expanded_url": "http://www.elysee.fr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/tXWVLyHyWM"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 19,
+                    "follow_request_sent": false,
+                    "followers_count": 3359949,
+                    "following": false,
+                    "friends_count": 702,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "fr",
+                    "listed_count": 8257,
+                    "location": "France",
+                    "name": "Emmanuel Macron",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976143068/1537085099",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1035051739853082624/pzQS5OTs_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035051739853082624/pzQS5OTs_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "EmmanuelMacron",
+                    "statuses_count": 7688,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/tXWVLyHyWM",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "quoted_status_id": 1061598511324692500,
+            "quoted_status_id_str": "1061598511324692481",
+            "retweet_count": 77566,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Patriotism is the exact opposite of nationalism. Nationalism is a betrayal of patriotism. By putting our own intere… https://t.co/V2TMh1YoFS",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Oct 20 19:35:28 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Président de la République française.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "elysee.fr",
+                                "expanded_url": "http://www.elysee.fr",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/tXWVLyHyWM"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 19,
+                "follow_request_sent": false,
+                "followers_count": 3359949,
+                "following": false,
+                "friends_count": 702,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1976143068,
+                "id_str": "1976143068",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "fr",
+                "listed_count": 8257,
+                "location": "France",
+                "name": "Emmanuel Macron",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976143068/1537085099",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1035051739853082624/pzQS5OTs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035051739853082624/pzQS5OTs_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "EmmanuelMacron",
+                "statuses_count": 7688,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/tXWVLyHyWM",
+                "utc_offset": null,
+                "verified": true
+            }
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "RT @EmmanuelMacron: Patriotism is the exact opposite of nationalism. Nationalism is a betrayal of patriotism. By putting our own interests…",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 28 17:10:52 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Strategy | Product Management | Technology | Nonprofits • living with MS • cancer survivor",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 66704,
+            "follow_request_sent": false,
+            "followers_count": 366,
+            "following": false,
+            "friends_count": 1040,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 801380,
+            "id_str": "801380",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 18,
+            "location": "SF Bay Area",
+            "name": "Joy Pinsky",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/801380/1517090843",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/957374222896005120/VEkLLvG1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/957374222896005120/VEkLLvG1_normal.jpg",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "joyy",
+            "statuses_count": 26908,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:14 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "expanded_url": "https://twitter.com/i/web/status/1062365025409622017",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/Av2GBVO1wR"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062365025409622000,
+        "id_str": "1062365025409622017",
+        "in_reply_to_screen_name": "EmmanuelMacron",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 1976143068,
+        "in_reply_to_user_id_str": "1976143068",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "text": "@EmmanuelMacron Emmanuel Macron  True Americans want to say Thank you for thinking about our fallen hero's. U would… https://t.co/Av2GBVO1wR",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Aug 03 18:41:04 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "A thief and a shit kicker. I'm already famous. If you find me striking, sit and spin. Now get off that A double S and register to vote STR8 ticket 🌊🌊🌊☮️",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/DNNllxrMeJ0",
+                            "expanded_url": "https://youtu.be/DNNllxrMeJ0",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/FJEp9mpGOA"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 3913,
+            "follow_request_sent": false,
+            "followers_count": 169,
+            "following": false,
+            "friends_count": 467,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 174353609,
+            "id_str": "174353609",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Puerto Vallarta/Missouri",
+            "name": "stevepvr",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1059852318701568000/3CaVbW97_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059852318701568000/3CaVbW97_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "stevenpvr",
+            "statuses_count": 9444,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/FJEp9mpGOA",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:13 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 46775077,
+                    "id_str": "46775077",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Frédéric Says",
+                    "screen_name": "FredericSays"
+                },
+                {
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        85,
+                        101
+                    ],
+                    "name": "Donald J. Trump",
+                    "screen_name": "realDonaldTrump"
+                },
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        105,
+                        120
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062365021966090200,
+        "id_str": "1062365021966090240",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "fr",
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 26,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Nov 13 14:36:57 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1062353629145894912",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/gEuEAEUnLd"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 25073877,
+                        "id_str": "25073877",
+                        "indices": [
+                            67,
+                            83
+                        ],
+                        "name": "Donald J. Trump",
+                        "screen_name": "realDonaldTrump"
+                    },
+                    {
+                        "id": 1976143068,
+                        "id_str": "1976143068",
+                        "indices": [
+                            87,
+                            102
+                        ],
+                        "name": "Emmanuel Macron",
+                        "screen_name": "EmmanuelMacron"
+                    }
+                ]
+            },
+            "favorite_count": 29,
+            "favorited": false,
+            "geo": null,
+            "id": 1062353629145894900,
+            "id_str": "1062353629145894912",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "fr",
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 26,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "Bon, l'époque des caresses sur la joue est bel et bien finie entre @realDonaldTrump et @EmmanuelMacron. (\"Le problè… https://t.co/gEuEAEUnLd",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jun 12 23:26:08 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Journaliste /📻 le Billet politique, chaque matin à 8h16 sur @franceculture /📙 @LenferdeBercy / vogue parfois du côté de @slatefr @dimpolitique & @28minutes",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "franceculture.fr/emissions/le-b…",
+                                "expanded_url": "http://www.franceculture.fr/emissions/le-billet-politique",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/14NapHq9Eo"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 27166,
+                "follow_request_sent": false,
+                "followers_count": 24355,
+                "following": false,
+                "friends_count": 9063,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 46775077,
+                "id_str": "46775077",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "fr",
+                "listed_count": 495,
+                "location": "",
+                "name": "Frédéric Says",
+                "notifications": false,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/46775077/1526421600",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/827842817930178561/hvVtA6GO_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/827842817930178561/hvVtA6GO_normal.jpg",
+                "profile_link_color": "0A6C8F",
+                "profile_sidebar_border_color": "BDDCAD",
+                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "FredericSays",
+                "statuses_count": 21488,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/14NapHq9Eo",
+                "utc_offset": null,
+                "verified": true
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "RT @FredericSays: Bon, l'époque des caresses sur la joue est bel et bien finie entre @realDonaldTrump et @EmmanuelMacron. (\"Le problème d'E…",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Nov 29 06:44:53 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "j'adore lire et voyager.\nEgyptienne de coeur.\nJ'enseigne le français au lycée allemand du Caire (DEO).",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1352,
+            "follow_request_sent": false,
+            "followers_count": 75,
+            "following": false,
+            "friends_count": 229,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2200184218,
+            "id_str": "2200184218",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "fr",
+            "listed_count": 2,
+            "location": "le caire",
+            "name": "Françoise Autier",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2200184218/1430149213",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022235061180162050/-6i6LUDT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022235061180162050/-6i6LUDT_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "francoiseautier",
+            "statuses_count": 2713,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:12 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "expanded_url": "https://twitter.com/i/web/status/1062365017578917889",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/JzegELky6V"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 146015035,
+                    "id_str": "146015035",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "tOad",
+                    "screen_name": "t0adscroak"
+                },
+                {
+                    "id": 43301934,
+                    "id_str": "43301934",
+                    "indices": [
+                        12,
+                        21
+                    ],
+                    "name": "Christian B",
+                    "screen_name": "petimiti"
+                },
+                {
+                    "id": 46775077,
+                    "id_str": "46775077",
+                    "indices": [
+                        22,
+                        35
+                    ],
+                    "name": "Frédéric Says",
+                    "screen_name": "FredericSays"
+                },
+                {
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        36,
+                        52
+                    ],
+                    "name": "Donald J. Trump",
+                    "screen_name": "realDonaldTrump"
+                },
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        53,
+                        68
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062365017578917900,
+        "id_str": "1062365017578917889",
+        "in_reply_to_screen_name": "t0adscroak",
+        "in_reply_to_status_id": 1062356676018364400,
+        "in_reply_to_status_id_str": "1062356676018364418",
+        "in_reply_to_user_id": 146015035,
+        "in_reply_to_user_id_str": "146015035",
+        "is_quote_status": false,
+        "lang": "fr",
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@t0adscroak @petimiti @FredericSays @realDonaldTrump @EmmanuelMacron Ce n'est pas complètement vrai, les Américains… https://t.co/JzegELky6V",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 13 12:10:02 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Travailleur indépendant . Rouge qui a verdit avec l'âge. Insoumis attendant une révolution ou par les urnes, ou dans la rue ✊",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 3362,
+            "follow_request_sent": false,
+            "followers_count": 107,
+            "following": false,
+            "friends_count": 232,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 2386874462,
+            "id_str": "2386874462",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "fr",
+            "listed_count": 0,
+            "location": "Gironde, Aquitaine",
+            "name": "φVinznoreFix Rolihlahla🇫🇷  matricule 20807",
+            "notifications": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2386874462/1394714694",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/803593644431331328/K_LEVlVK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/803593644431331328/K_LEVlVK_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "VinznoreF",
+            "statuses_count": 2231,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:11 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "expanded_url": "https://twitter.com/i/web/status/1062365011505565696",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/99QUJU1dCF"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 53188720,
+                    "id_str": "53188720",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "Photo Activist",
+                    "screen_name": "photoactivist"
+                },
+                {
+                    "id": 818876014390603800,
+                    "id_str": "818876014390603776",
+                    "indices": [
+                        15,
+                        22
+                    ],
+                    "name": "Melania Trump",
+                    "screen_name": "FLOTUS"
+                },
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        23,
+                        38
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062365011505565700,
+        "id_str": "1062365011505565696",
+        "in_reply_to_screen_name": "photoactivist",
+        "in_reply_to_status_id": 1062188135218479100,
+        "in_reply_to_status_id_str": "1062188135218479104",
+        "in_reply_to_user_id": 53188720,
+        "in_reply_to_user_id_str": "53188720",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -109.060257,
+                            36.992427
+                        ],
+                        [
+                            -102.041524,
+                            36.992427
+                        ],
+                        [
+                            -102.041524,
+                            41.003445
+                        ],
+                        [
+                            -109.060257,
+                            41.003445
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Colorado, USA",
+            "id": "e21c8e4914eef2b3",
+            "name": "Colorado",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json"
+        },
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@photoactivist @FLOTUS @EmmanuelMacron Our First Lady said it in very polite and correct way.   You just enjoy doin… https://t.co/99QUJU1dCF",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Apr 11 20:17:13 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": true,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 65,
+            "follow_request_sent": false,
+            "followers_count": 1,
+            "following": false,
+            "friends_count": 32,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 3157658860,
+            "id_str": "3157658860",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "",
+            "name": "Beth Davis",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "bethanndavis2",
+            "statuses_count": 40,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:11 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1487287352,
+                    "id_str": "1487287352",
+                    "indices": [
+                        3,
+                        19
+                    ],
+                    "name": "Nadejda Silanina",
+                    "screen_name": "NadejdaSilanina"
+                },
+                {
+                    "id": 38170599,
+                    "id_str": "38170599",
+                    "indices": [
+                        55,
+                        68
+                    ],
+                    "name": "N. Dupont-Aignan",
+                    "screen_name": "dupontaignan"
+                },
+                {
+                    "id": 788085432,
+                    "id_str": "788085432",
+                    "indices": [
+                        113,
+                        126
+                    ],
+                    "name": "On n'est pas couché",
+                    "screen_name": "ONPCofficiel"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062365011107029000,
+        "id_str": "1062365011107028992",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "fr",
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 160,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Nov 13 12:01:55 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1062314613461712896",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/Vr0J67fkvp"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 38170599,
+                        "id_str": "38170599",
+                        "indices": [
+                            34,
+                            47
+                        ],
+                        "name": "N. Dupont-Aignan",
+                        "screen_name": "dupontaignan"
+                    },
+                    {
+                        "id": 788085432,
+                        "id_str": "788085432",
+                        "indices": [
+                            92,
+                            105
+                        ],
+                        "name": "On n'est pas couché",
+                        "screen_name": "ONPCofficiel"
+                    }
+                ]
+            },
+            "favorite_count": 223,
+            "favorited": false,
+            "geo": null,
+            "id": 1062314613461712900,
+            "id_str": "1062314613461712896",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "fr",
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 160,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "🇫🇷 Très fière de soutenir Nicolas @DupontAignan dans son combat contre la repentance, ici à @ONPCofficiel en juin 2… https://t.co/Vr0J67fkvp",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Jun 06 09:03:43 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "🇫🇷Déléguée nationale à l'#AssimilationRépublicaine de @DLF_Officiel. #DeboutLaFrance avec Nicolas @dupontaignan",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "debout-la-france.fr",
+                                "expanded_url": "http://debout-la-france.fr",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/57iiHQevyl"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 2020,
+                "follow_request_sent": false,
+                "followers_count": 1298,
+                "following": false,
+                "friends_count": 1023,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1487287352,
+                "id_str": "1487287352",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "fr",
+                "listed_count": 6,
+                "location": "Paris, France",
+                "name": "Nadejda Silanina",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487287352/1495836600",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/959825454281699328/yk0FKAPo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/959825454281699328/yk0FKAPo_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "NadejdaSilanina",
+                "statuses_count": 1985,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/57iiHQevyl",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @NadejdaSilanina: 🇫🇷 Très fière de soutenir Nicolas @DupontAignan dans son combat contre la repentance, ici à @ONPCofficiel en juin 2018…",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Aug 31 12:32:03 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": true,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1998,
+            "follow_request_sent": false,
+            "followers_count": 16,
+            "following": false,
+            "friends_count": 124,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 903233922481496000,
+            "id_str": "903233922481496064",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "fr",
+            "listed_count": 0,
+            "location": "",
+            "name": "Texas",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Texas91014133",
+            "statuses_count": 1286,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:09 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 582922075,
+                    "id_str": "582922075",
+                    "indices": [
+                        3,
+                        11
+                    ],
+                    "name": "Danièle Deschamps",
+                    "screen_name": "DD75007"
+                },
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        19,
+                        34
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062365003750219800,
+        "id_str": "1062365003750219788",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "fr",
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 74,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Nov 13 09:09:45 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1062271286779543552",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/mCO061mMGp"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 1976143068,
+                        "id_str": "1976143068",
+                        "indices": [
+                            6,
+                            21
+                        ],
+                        "name": "Emmanuel Macron",
+                        "screen_name": "EmmanuelMacron"
+                    }
+                ]
+            },
+            "favorite_count": 99,
+            "favorited": false,
+            "geo": null,
+            "id": 1062271286779543600,
+            "id_str": "1062271286779543552",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "fr",
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 74,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "\"Avec @EmmanuelMacron c'est 4 milliards d'impôts et de taxes de plus en un an.\nLes Français n'en peuvent plus et il… https://t.co/mCO061mMGp",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu May 17 16:23:48 +0000 2012",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Ex Dircom filiale Cie Bancaire (Paribas) et Cabinet ministériel",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 13214,
+                "follow_request_sent": false,
+                "followers_count": 5244,
+                "following": false,
+                "friends_count": 2096,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 582922075,
+                "id_str": "582922075",
+                "is_translation_enabled": true,
+                "is_translator": false,
+                "lang": "fr",
+                "listed_count": 73,
+                "location": "Paris",
+                "name": "Danièle Deschamps",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/582922075/1498846364",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/862912731535552513/2nUGjTdF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/862912731535552513/2nUGjTdF_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "DD75007",
+                "statuses_count": 24290,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "RT @DD75007: \"Avec @EmmanuelMacron c'est 4 milliards d'impôts et de taxes de plus en un an.\nLes Français n'en peuvent plus et ils le disent…",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jun 04 20:54:02 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 4115,
+            "follow_request_sent": false,
+            "followers_count": 146,
+            "following": false,
+            "friends_count": 406,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1003741689171927000,
+            "id_str": "1003741689171927040",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "Saint-Barthélemy",
+            "name": "HMarg",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1003741689171927040/1528156116",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1003785437360676866/m6AeD5j0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003785437360676866/m6AeD5j0_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "HMarg4",
+            "statuses_count": 4888,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:08 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "expanded_url": "https://twitter.com/i/web/status/1062365001862782981",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/xdw6QpYlHX"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062365001862783000,
+        "id_str": "1062365001862782981",
+        "in_reply_to_screen_name": "EmmanuelMacron",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 1976143068,
+        "in_reply_to_user_id_str": "1976143068",
+        "is_quote_status": false,
+        "lang": "fr",
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@EmmanuelMacron S'il vous plait crèer l'armèe europèenne unifiee. Si nous sommes une seule nation, nous devons pouv… https://t.co/xdw6QpYlHX",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 28 22:07:13 +0000 2015",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I hate until given a reason not to.",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 489,
+            "follow_request_sent": false,
+            "followers_count": 15,
+            "following": false,
+            "friends_count": 107,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3302273470,
+            "id_str": "3302273470",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "Ankh-Morpork",
+            "name": "Tod",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/841053342415626240/sE-8MM9V_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/841053342415626240/sE-8MM9V_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "CynicismInc",
+            "statuses_count": 1016,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:08 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 14260960,
+                    "id_str": "14260960",
+                    "indices": [
+                        3,
+                        17
+                    ],
+                    "name": "Justin Trudeau",
+                    "screen_name": "JustinTrudeau"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062364999761477600,
+        "id_str": "1062364999761477635",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 5075,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Nov 11 22:31:54 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1061748378260762624",
+                        "indices": [
+                            125,
+                            148
+                        ],
+                        "url": "https://t.co/1FN9LaElB3"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 28914,
+            "favorited": false,
+            "geo": null,
+            "id": 1061748378260762600,
+            "id_str": "1061748378260762624",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 5075,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "In times of conflict and in times of peace, Canada &amp; France are partners, allies &amp; the closest of friends. Thank yo… https://t.co/1FN9LaElB3",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Mar 30 21:04:14 +0000 2008",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Account run by the 23rd Prime Minister of Canada and staff… Compte géré par le 23e premier ministre du Canada et personnel.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "pm.gc.ca",
+                                "expanded_url": "http://pm.gc.ca",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/wbkAcy1QE7"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 69,
+                "follow_request_sent": false,
+                "followers_count": 4372057,
+                "following": false,
+                "friends_count": 960,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 14260960,
+                "id_str": "14260960",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 13056,
+                "location": "Papineau",
+                "name": "Justin Trudeau",
+                "notifications": false,
+                "profile_background_color": "DBDCDD",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14260960/1499699762",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1049800491381665792/roFCXYgS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049800491381665792/roFCXYgS_normal.jpg",
+                "profile_link_color": "B50000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "B80B0B",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "JustinTrudeau",
+                "statuses_count": 20807,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/wbkAcy1QE7",
+                "utc_offset": null,
+                "verified": true
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "RT @JustinTrudeau: In times of conflict and in times of peace, Canada &amp; France are partners, allies &amp; the closest of friends. Thank you @Em…",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Sep 27 23:55:13 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Never Lose Hope!  We need to Protect our Democracy!  We Democrats are Winners! \nTrump is a Loser!    Faith, Hope, Love",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 712,
+            "follow_request_sent": false,
+            "followers_count": 465,
+            "following": false,
+            "friends_count": 624,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1045461892792299500,
+            "id_str": "1045461892792299526",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "United States",
+            "name": "Melody 🇨🇴 🇺🇸",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045461892792299526/1542092303",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1062019796861095936/l2-VSrRn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062019796861095936/l2-VSrRn_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "maryalabama209",
+            "statuses_count": 178,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:08 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062364998167679000,
+        "id_str": "1062364998167678976",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "quoted_status_id": 1061598511324692500,
+        "quoted_status_id_str": "1061598511324692481",
+        "retweet_count": 77566,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Nov 11 16:31:15 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1061657617683111942",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/V2TMh1YoFS"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 255716,
+            "favorited": false,
+            "geo": null,
+            "id": 1061657617683112000,
+            "id_str": "1061657617683111942",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": {
+                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                2.2241006,
+                                48.8155214
+                            ],
+                            [
+                                2.4699053,
+                                48.8155214
+                            ],
+                            [
+                                2.4699053,
+                                48.9021461
+                            ],
+                            [
+                                2.2241006,
+                                48.9021461
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "contained_within": [],
+                "country": "France",
+                "country_code": "FR",
+                "full_name": "Paris, France",
+                "id": "09f6a7707f18e0b1",
+                "name": "Paris",
+                "place_type": "city",
+                "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+            },
+            "possibly_sensitive": false,
+            "quoted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Sun Nov 11 12:36:23 +0000 2018",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "expanded_url": "https://twitter.com/i/web/status/1061598511324692481",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/g1THSQ3qLm"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 73052,
+                "favorited": false,
+                "geo": null,
+                "id": 1061598511324692500,
+                "id_str": "1061598511324692481",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "fr",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": {
+                    "attributes": {},
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    2.2241006,
+                                    48.8155214
+                                ],
+                                [
+                                    2.4699053,
+                                    48.8155214
+                                ],
+                                [
+                                    2.4699053,
+                                    48.9021461
+                                ],
+                                [
+                                    2.2241006,
+                                    48.9021461
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "contained_within": [],
+                    "country": "France",
+                    "country_code": "FR",
+                    "full_name": "Paris, France",
+                    "id": "09f6a7707f18e0b1",
+                    "name": "Paris",
+                    "place_type": "city",
+                    "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+                },
+                "retweet_count": 23802,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "text": "Le patriotisme est l’exact contraire du nationalisme : le nationalisme en est la trahison. En disant « nos intérêts… https://t.co/g1THSQ3qLm",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Sun Oct 20 19:35:28 +0000 2013",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Président de la République française.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "elysee.fr",
+                                    "expanded_url": "http://www.elysee.fr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ],
+                                    "url": "https://t.co/tXWVLyHyWM"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 19,
+                    "follow_request_sent": false,
+                    "followers_count": 3359949,
+                    "following": false,
+                    "friends_count": 702,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "fr",
+                    "listed_count": 8257,
+                    "location": "France",
+                    "name": "Emmanuel Macron",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976143068/1537085099",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1035051739853082624/pzQS5OTs_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035051739853082624/pzQS5OTs_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "EmmanuelMacron",
+                    "statuses_count": 7688,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": "https://t.co/tXWVLyHyWM",
+                    "utc_offset": null,
+                    "verified": true
+                }
+            },
+            "quoted_status_id": 1061598511324692500,
+            "quoted_status_id_str": "1061598511324692481",
+            "retweet_count": 77566,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Patriotism is the exact opposite of nationalism. Nationalism is a betrayal of patriotism. By putting our own intere… https://t.co/V2TMh1YoFS",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Oct 20 19:35:28 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Président de la République française.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "elysee.fr",
+                                "expanded_url": "http://www.elysee.fr",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/tXWVLyHyWM"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 19,
+                "follow_request_sent": false,
+                "followers_count": 3359949,
+                "following": false,
+                "friends_count": 702,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1976143068,
+                "id_str": "1976143068",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "fr",
+                "listed_count": 8257,
+                "location": "France",
+                "name": "Emmanuel Macron",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976143068/1537085099",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1035051739853082624/pzQS5OTs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035051739853082624/pzQS5OTs_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "EmmanuelMacron",
+                "statuses_count": 7688,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/tXWVLyHyWM",
+                "utc_offset": null,
+                "verified": true
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @EmmanuelMacron: Patriotism is the exact opposite of nationalism. Nationalism is a betrayal of patriotism. By putting our own interests…",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Nov 01 20:14:40 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Yin and Yang, and that b*tch Karma",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 3508,
+            "follow_request_sent": false,
+            "followers_count": 32,
+            "following": false,
+            "friends_count": 76,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 925818390786314200,
+            "id_str": "925818390786314241",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "",
+            "name": "Claire",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/925818390786314241/1537646314",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1025769673428746243/N29RcP7D_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025769673428746243/N29RcP7D_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Claire46904843",
+            "statuses_count": 2233,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:07 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "expanded_url": "https://twitter.com/i/web/status/1062364996984889344",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/wRtESX5U5i"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062364996984889300,
+        "id_str": "1062364996984889344",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "cs",
+        "metadata": {
+            "iso_language_code": "cs",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Nov 13 12:41:19 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1062324527496077312",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/YI0G9RC5NX"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 3871,
+            "favorited": false,
+            "geo": null,
+            "id": 1062324527496077300,
+            "id_str": "1062324527496077312",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "fr",
+            "metadata": {
+                "iso_language_code": "cs",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 1016,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Trois années sont passées mais rien n’est oublié. Le 13 novembre est entré dans la mémoire de la Nation tout entièr… https://t.co/YI0G9RC5NX",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Oct 20 19:35:28 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Président de la République française.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "elysee.fr",
+                                "expanded_url": "http://www.elysee.fr",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/tXWVLyHyWM"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 19,
+                "follow_request_sent": false,
+                "followers_count": 3359949,
+                "following": false,
+                "friends_count": 702,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 1976143068,
+                "id_str": "1976143068",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "fr",
+                "listed_count": 8257,
+                "location": "France",
+                "name": "Emmanuel Macron",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976143068/1537085099",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1035051739853082624/pzQS5OTs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035051739853082624/pzQS5OTs_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "EmmanuelMacron",
+                "statuses_count": 7688,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/tXWVLyHyWM",
+                "utc_offset": null,
+                "verified": true
+            }
+        },
+        "quoted_status_id": 1062324527496077300,
+        "quoted_status_id_str": "1062324527496077312",
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "🇫🇷😢🙏Uplynuly tři roky, ale nic nebylo zapomenuto. 13. listopad vstoupil do paměti celého našeho národa, tam, kde zů… https://t.co/wRtESX5U5i",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Nov 27 08:22:44 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Ambassade de France en République tchèque / Velvyslanectví Francie v České republice",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "cz.ambafrance.org",
+                            "expanded_url": "https://cz.ambafrance.org",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/rDGhonF1tl"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 2283,
+            "follow_request_sent": false,
+            "followers_count": 2091,
+            "following": false,
+            "friends_count": 865,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 2217410809,
+            "id_str": "2217410809",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "fr",
+            "listed_count": 83,
+            "location": "Prague",
+            "name": "La France à Prague",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2217410809/1541580720",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/963371319998996481/GTXbXFiD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/963371319998996481/GTXbXFiD_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "France_CZ",
+            "statuses_count": 4984,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/rDGhonF1tl",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:07 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/TheOval/status…",
+                    "expanded_url": "https://twitter.com/TheOval/status/1062345859646533632",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "url": "https://t.co/RdAW6mest9"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        59,
+                        74
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                },
+                {
+                    "id": 2631881902,
+                    "id_str": "2631881902",
+                    "indices": [
+                        75,
+                        91
+                    ],
+                    "name": "Angela Merkel",
+                    "screen_name": "AngelaMerkeICDU"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062364996208943100,
+        "id_str": "1062364996208943104",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Nov 13 14:06:05 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "usatoday.com/story/news/pol…",
+                        "expanded_url": "https://www.usatoday.com/story/news/politics/2018/11/13/donald-trump-secret-service-cemetery-trip-france/1986252002/",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "url": "https://t.co/LOjiqw6R2Y"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 27438376,
+                        "id_str": "27438376",
+                        "indices": [
+                            80,
+                            91
+                        ],
+                        "name": "David Jackson",
+                        "screen_name": "djusatoday"
+                    }
+                ]
+            },
+            "favorite_count": 19,
+            "favorited": false,
+            "geo": null,
+            "id": 1062345859646533600,
+            "id_str": "1062345859646533632",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 20,
+            "retweeted": false,
+            "source": "<a href=\"http://www.usatoday.com\" rel=\"nofollow\">Version 1.1 OAuth api oval</a>",
+            "text": "President Trump blames Secret Service for cancelling cemetery trip in France by @djusatoday https://t.co/LOjiqw6R2Y",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Dec 10 18:28:04 +0000 2008",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "The latest coverage of President Trump from USA TODAY's White House team: @gregorykorte @jfritze and @djusatoday",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "usatoday.com/washington",
+                                "expanded_url": "http://usatoday.com/washington",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/2eHjV3emk3"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 2,
+                "follow_request_sent": false,
+                "followers_count": 8930,
+                "following": false,
+                "friends_count": 14,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 18026148,
+                "id_str": "18026148",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 453,
+                "location": "Washington, D.C.",
+                "name": "USA TODAY's The Oval",
+                "notifications": false,
+                "profile_background_color": "009BFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18026148/1459349483",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1032079095071428612/u9rjrJwl_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032079095071428612/u9rjrJwl_normal.jpg",
+                "profile_link_color": "009BFF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "TheOval",
+                "statuses_count": 12738,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/2eHjV3emk3",
+                "utc_offset": null,
+                "verified": true
+            }
+        },
+        "quoted_status_id": 1062345859646533600,
+        "quoted_status_id_str": "1062345859646533632",
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "FYI. WE ARE LAUGHING WITH YOU! Once a tool, always a tool!\n@EmmanuelMacron @AngelaMerkeICDU https://t.co/RdAW6mest9",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Oct 30 02:07:25 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 18121,
+            "follow_request_sent": false,
+            "followers_count": 101,
+            "following": false,
+            "friends_count": 140,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 913687544,
+            "id_str": "913687544",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "",
+            "name": "Clancy",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/913687544/1508373454",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/920812181968613377/w0aH7YUW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/920812181968613377/w0aH7YUW_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "khourymurphy5",
+            "statuses_count": 12273,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:05 +0000 2018",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 85362553,
+                    "id_str": "85362553",
+                    "indices": [
+                        3,
+                        7
+                    ],
+                    "name": "LCP",
+                    "screen_name": "LCP"
+                },
+                {
+                    "id": 801822323825410000,
+                    "id_str": "801822323825410049",
+                    "indices": [
+                        41,
+                        57
+                    ],
+                    "name": "François Ruffin",
+                    "screen_name": "Francois_Ruffin"
+                },
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        60,
+                        75
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062364989003055100,
+        "id_str": "1062364989003055104",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "fr",
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 32,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Nov 13 15:06:00 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "expanded_url": "https://twitter.com/i/web/status/1062360942187634696",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/WyaEoxj1RW"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 801822323825410000,
+                        "id_str": "801822323825410049",
+                        "indices": [
+                            32,
+                            48
+                        ],
+                        "name": "François Ruffin",
+                        "screen_name": "Francois_Ruffin"
+                    },
+                    {
+                        "id": 1976143068,
+                        "id_str": "1976143068",
+                        "indices": [
+                            51,
+                            66
+                        ],
+                        "name": "Emmanuel Macron",
+                        "screen_name": "EmmanuelMacron"
+                    }
+                ]
+            },
+            "favorite_count": 33,
+            "favorited": false,
+            "geo": null,
+            "id": 1062360942187634700,
+            "id_str": "1062360942187634696",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "fr",
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 32,
+            "retweeted": false,
+            "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+            "text": "\"Rendez l'ISF d'abord\", demande @Francois_Ruffin à @EmmanuelMacron. \"Tout pour ceux qui ont tout, rien pour ceux qu… https://t.co/WyaEoxj1RW",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Oct 26 17:09:03 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Chaîne de télévision d'information politique et parlementaire. TNT canal 13, LCP 100%. #DonnonsDuSens Facebook : https://t.co/0BBACzoLa5",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "facebook.com/LCP",
+                                "expanded_url": "https://www.facebook.com/LCP",
+                                "indices": [
+                                    113,
+                                    136
+                                ],
+                                "url": "https://t.co/0BBACzoLa5"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "lcp.fr",
+                                "expanded_url": "http://www.lcp.fr",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/EyCo9lHone"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 1315,
+                "follow_request_sent": false,
+                "followers_count": 513524,
+                "following": false,
+                "friends_count": 1796,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 85362553,
+                "id_str": "85362553",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "fr",
+                "listed_count": 2107,
+                "location": "Paris, France",
+                "name": "LCP",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/85362553/1528372297",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/778536550992900096/1qWAMC5D_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/778536550992900096/1qWAMC5D_normal.jpg",
+                "profile_link_color": "0D0E60",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "LCP",
+                "statuses_count": 84624,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/EyCo9lHone",
+                "utc_offset": null,
+                "verified": true
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "RT @LCP: \"Rendez l'ISF d'abord\", demande @Francois_Ruffin à @EmmanuelMacron. \"Tout pour ceux qui ont tout, rien pour ceux qui ne sont rien.…",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jun 02 20:42:00 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 21596,
+            "follow_request_sent": false,
+            "followers_count": 174,
+            "following": false,
+            "friends_count": 396,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 309880055,
+            "id_str": "309880055",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "fr",
+            "listed_count": 11,
+            "location": "",
+            "name": "darty's",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/309880055/1462916139",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/577971458107932672/ZYRk3Yll_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/577971458107932672/ZYRk3Yll_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "darmon63",
+            "statuses_count": 14176,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 13 15:22:05 +0000 2018",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        128,
+                        136
+                    ],
+                    "text": "defense"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "lefigaro.fr/flash-actu/201…",
+                    "expanded_url": "http://www.lefigaro.fr/flash-actu/2018/11/13/97001-20181113FILWWW00197-merkel-defend-a-son-tour-l-idee-d-une-armee-europeenne.php",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "url": "https://t.co/xJIqLOBB4H"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 152786338,
+                    "id_str": "152786338",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "Les Progressistes",
+                    "screen_name": "_Progressistes"
+                },
+                {
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        26,
+                        41
+                    ],
+                    "name": "Emmanuel Macron",
+                    "screen_name": "EmmanuelMacron"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1062364987274993700,
+        "id_str": "1062364987274993664",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "fr",
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Nov 13 15:19:14 +0000 2018",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            108,
+                            116
+                        ],
+                        "text": "defense"
+                    },
+                    {
+                        "indices": [
+                            117,
+                            124
+                        ],
+                        "text": "Europe"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "lefigaro.fr/flash-actu/201…",
+                        "expanded_url": "http://www.lefigaro.fr/flash-actu/2018/11/13/97001-20181113FILWWW00197-merkel-defend-a-son-tour-l-idee-d-une-armee-europeenne.php",
+                        "indices": [
+                            84,
+                            107
+                        ],
+                        "url": "https://t.co/xJIqLOBB4H"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 1976143068,
+                        "id_str": "1976143068",
+                        "indices": [
+                            6,
+                            21
+                        ],
+                        "name": "Emmanuel Macron",
+                        "screen_name": "EmmanuelMacron"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 1062364270132904000,
+            "id_str": "1062364270132903936",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "fr",
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 1,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Après @emmanuelmacron Angela Merkel défend à son tour l'idée d'une armée européenne https://t.co/xJIqLOBB4H #defense #Europe",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Jun 06 21:51:25 +0000 2010",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Les Progressistes (TM : Marque déposée) le think thank progressiste, réformiste et européen ! animé par @antonio_duarte & @gillessauliere (@progressists 🇬🇧)",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "lesprogressistes.net",
+                                "expanded_url": "http://www.lesprogressistes.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/sYYhOQQaRR"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 41,
+                "follow_request_sent": false,
+                "followers_count": 8591,
+                "following": false,
+                "friends_count": 6104,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 152786338,
+                "id_str": "152786338",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "fr",
+                "listed_count": 246,
+                "location": "Paris",
+                "name": "Les Progressistes",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/152786338/1486020694",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/824831551041048576/1FxvCZIW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/824831551041048576/1FxvCZIW_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "_Progressistes",
+                "statuses_count": 5330,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/sYYhOQQaRR",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @_Progressistes: Après @emmanuelmacron Angela Merkel défend à son tour l'idée d'une armée européenne https://t.co/xJIqLOBB4H #defense #E…",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jun 07 14:01:53 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "parisien engagé #ParisetMoi #MakeParisGreatAgain ! Pdt @_progressistes @planeteverte @assograndparis",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "antonioduarte.fr",
+                            "expanded_url": "http://www.antonioduarte.fr",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/hrGmuwbogK"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 2112,
+            "follow_request_sent": false,
+            "followers_count": 4353,
+            "following": false,
+            "friends_count": 5001,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 45343260,
+            "id_str": "45343260",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "fr",
+            "listed_count": 289,
+            "location": "Grand Paris",
+            "name": "Antonio Duarte",
+            "notifications": false,
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/45343260/1541530975",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/929352139821993984/2QjTgJwC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/929352139821993984/2QjTgJwC_normal.jpg",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_border_color": "DBE9ED",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Antonio_Duarte",
+            "statuses_count": 27006,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/hrGmuwbogK",
+            "utc_offset": null,
+            "verified": false
+        }
+    }
+]
